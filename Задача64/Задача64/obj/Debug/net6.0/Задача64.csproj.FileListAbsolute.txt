@@ -1,0 +1,15 @@
+C:\Users\anjel\OneDrive\Рабочий стол\Attestation\Задача64\Задача64\bin\Debug\net6.0\Задача64.exe
+C:\Users\anjel\OneDrive\Рабочий стол\Attestation\Задача64\Задача64\bin\Debug\net6.0\Задача64.deps.json
+C:\Users\anjel\OneDrive\Рабочий стол\Attestation\Задача64\Задача64\bin\Debug\net6.0\Задача64.runtimeconfig.json
+C:\Users\anjel\OneDrive\Рабочий стол\Attestation\Задача64\Задача64\bin\Debug\net6.0\Задача64.dll
+C:\Users\anjel\OneDrive\Рабочий стол\Attestation\Задача64\Задача64\bin\Debug\net6.0\Задача64.pdb
+C:\Users\anjel\OneDrive\Рабочий стол\Attestation\Задача64\Задача64\obj\Debug\net6.0\Задача64.csproj.AssemblyReference.cache
+C:\Users\anjel\OneDrive\Рабочий стол\Attestation\Задача64\Задача64\obj\Debug\net6.0\Задача64.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anjel\OneDrive\Рабочий стол\Attestation\Задача64\Задача64\obj\Debug\net6.0\Задача64.AssemblyInfoInputs.cache
+C:\Users\anjel\OneDrive\Рабочий стол\Attestation\Задача64\Задача64\obj\Debug\net6.0\Задача64.AssemblyInfo.cs
+C:\Users\anjel\OneDrive\Рабочий стол\Attestation\Задача64\Задача64\obj\Debug\net6.0\Задача64.csproj.CoreCompileInputs.cache
+C:\Users\anjel\OneDrive\Рабочий стол\Attestation\Задача64\Задача64\obj\Debug\net6.0\Задача64.dll
+C:\Users\anjel\OneDrive\Рабочий стол\Attestation\Задача64\Задача64\obj\Debug\net6.0\refint\Задача64.dll
+C:\Users\anjel\OneDrive\Рабочий стол\Attestation\Задача64\Задача64\obj\Debug\net6.0\Задача64.pdb
+C:\Users\anjel\OneDrive\Рабочий стол\Attestation\Задача64\Задача64\obj\Debug\net6.0\Задача64.genruntimeconfig.cache
+C:\Users\anjel\OneDrive\Рабочий стол\Attestation\Задача64\Задача64\obj\Debug\net6.0\ref\Задача64.dll
